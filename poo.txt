@@ -1,0 +1,158 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="en_US" lang="en-US" xml:lang="en-US">
+<head>
+<title>Path of Exile</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" >
+<meta property="fb:admins" content="100001526026598" >
+<meta property="og:image" content="https://web.poecdn.com/image/favicon/ogimage.png?atlas" >
+<meta property="og:title" content="Path of Exile" >
+<meta property="og:site_name" content="Path of Exile" >
+<meta property="og:type" content="website" >
+<meta property="og:keywords" content="path of exile,action rpg,online rpg game,free rpg game" >
+<meta property="og:description" content="Path of Exile is a free online-only action RPG under development by Grinding Gear Games in New Zealand." >
+<meta name="keywords" content="path of exile,action rpg,online rpg game,free rpg game" >
+<meta name="description" content="Path of Exile is a free online-only action RPG under development by Grinding Gear Games in New Zealand." >
+<meta name="msapplication-config" content="https://web.poecdn.com/image/favicon/browserconfig.xml" >
+<meta name="theme-color" content="#ffffff" >
+<meta property="og:locale" content="en_US" ><link href="//th.pathofexile.com/login" hreflang="th-TH" rel="alternate" >
+<link href="//ru.pathofexile.com/login" hreflang="ru-RU" rel="alternate" >
+<link href="//br.pathofexile.com/login" hreflang="pt-BR" rel="alternate" >
+<link href="//pathofexile.com/login" hreflang="en" rel="alternate" >
+<link href="https://web.poecdn.com/image/favicon/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180" >
+<link href="https://web.poecdn.com/image/favicon/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32" >
+<link href="https://web.poecdn.com/image/favicon/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16" >
+<link href="https://web.poecdn.com/image/favicon/manifest.json" rel="manifest" >
+<link href="https://web.poecdn.com/image/favicon/safari-pinned-tab.svg" rel="mask-icon" >
+<link href="https://web.poecdn.com/image/favicon/favicon.ico" rel="shortcut icon" >
+<link href="https://web.poecdn.com/css/https/screen.css?v=784fceda8b1765e2d813eed075330e5c" media="screen" rel="stylesheet" type="text/css" >
+            <script type="text/javascript">
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-17600449-1']);
+                _gaq.push(['_trackPageview']);
+                _gaq.push(['_setDomainName', 'pathofexile.com']);
+                (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+            </script></head>
+
+<body class="en_US noJS ">
+            <div class="container">
+        <div class="header en">
+            <div class="controls">
+                <div id="statusBar"><div class="statusBarCenter"></div><div class="statusBarRight"></div><div class="row2 loggedOut"><a class="statusItem" href="/login">LOG IN</a><a class="statusItem" href="/account/create">CREATE ACCOUNT</a><a class="statusItem" href="/support">CONTACT SUPPORT</a></div></div>                <div class="language-select">
+	                <a href="//pathofexile.com/login"><span class="en"><img src="https://web.poecdn.com/image/lang/GB.png"/></span></a>
+	                <a href="//br.pathofexile.com/login"><span class="br"><img src="https://web.poecdn.com/image/lang/BR.png"/></span></a>
+					<a href="//ru.pathofexile.com/login"><span class="ru"><img src="https://web.poecdn.com/image/lang/RU.png"/></span></a>
+                    <a href="//th.pathofexile.com/login"><span class="ru"><img src="https://web.poecdn.com/image/lang/TH.png"/></span></a>
+                </div>                                <a id="mainLogoLink" href="/">
+                    <span>Path of Exile</span>
+                </a>
+                                    <div id="largeHeaderButton">
+                                                <a id="signupButton" href="https://pathofexile.com/account/create"><span>Sign Up</span></a>
+                                            </div>
+                            </div>
+            <ul class="navigation en_US">
+                <li id="nav-home">      <a onclick="return touchMenu()" href="https://pathofexile.com/"><span>Home</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/news">News</a></li><li><a href="https://pathofexile.com/account/create">Create Account</a></li><li><a href="https://pathofexile.com/login">Log In</a></li><li><a href="https://pathofexile.com/forum/view-forum/patch-notes">Patch Notes</a></li></ul><div class="bot"></div></div></li>
+                <li id="nav-game">      <a onclick="return touchMenu()" href="https://pathofexile.com/game"><span>Game</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/video">Videos</a></li><li><a href="https://pathofexile.com/gallery">Gallery</a></li><li class="separator"></li><li><a href="https://pathofexile.com/game">Overview</a></li><li><a href="https://pathofexile.com/passive-skill-tree">Passive Tree</a></li><li><a href="https://pathofexile.com/ascendancy/classes">Ascendancy Classes</a></li><li><a href="https://pathofexile.com/item-data">Items</a></li><li class="separator"></li><li><a href="http://pathofexile.gamepedia.com/">Community Wiki</a></li></ul><div class="bot"></div></div></li>
+                <li id="nav-forum">     <a onclick="return touchMenu()" href="https://pathofexile.com/forum"><span>Forum</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/forum">Index</a></li><li><a href="https://pathofexile.com/forum/view-thread/1457463">Code of Conduct</a></li><li><a href="https://pathofexile.com/search">Search</a></li></ul><div class="bot"></div></div></li>
+                <li id="nav-events">    <a onclick="return touchMenu()" href="https://pathofexile.com/events"><span>Events</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/events">Event Calendar</a></li><li><a href="https://pathofexile.com/seasons">Race Season</a></li></ul><div class="bot"></div></div></li>
+                <li id="nav-ladders">   <a onclick="return touchMenu()" href="https://pathofexile.com/forum/view-thread/1841349"><span>Ladders</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/forum/view-thread/1841349">Legacy</a></li><li><a href="https://pathofexile.com/forum/view-thread/1841345">Hardcore Legacy</a></li><li><a href="https://pathofexile.com/forum/view-thread/71278">Standard</a></li><li><a href="https://pathofexile.com/forum/view-thread/71276">Hardcore</a></li><li><a href="https://pathofexile.com/forum/view-thread/1841364">SSF Legacy</a></li><li><a href="https://pathofexile.com/forum/view-thread/1841361">SSF Hardcore Legacy</a></li><li><a href="https://pathofexile.com/forum/view-thread/1841357">SSF Standard</a></li><li><a href="https://pathofexile.com/forum/view-thread/1841353">SSF Hardcore</a></li><li class="separator"></li><li><a href="https://pathofexile.com/seasons/ladder">Race Season Points</a></li><li><a href="https://pathofexile.com/signature-races/ladder">Signature Races</a></li><li><a href="https://pathofexile.com/labyrinth">Labyrinth Ladders</a></li></ul><div class="bot"></div></div></li>
+                <li id="nav-shop">      <a onclick="return touchMenu()" href="https://pathofexile.com/shop"><span>Shop</span></a><div class="dropDown"><div class="top"></div><ul><li><a href="https://pathofexile.com/purchase">Buy Packs</a></li><li><a href="https://pathofexile.com/shop">Microtransactions</a></li><li><a href="https://pathofexile.com/shop/category/daily-deals">Specials</a></li></ul><div class="bot"></div></div></li>
+                            </ul>
+        </div>
+        <div class="content">
+            <div class="backdrop"></div>
+            <div class="wrapper">
+                                                                                <div id="login-container" class="layoutBox1 layoutBoxFull padded rightBackground1Theme">
+    <h1 class="topBar first last layoutBoxTitle">Login</h1>
+    <div class="layoutBoxContent">
+    <div id="login">
+        <form enctype="application/x-www-form-urlencoded" method="post" class="poeForm "><table class="poeForm">
+<tr><td colspan="2"><table class="border">
+<tr class="input-row"><td id="login_email-label" class="label"><label for="login_email" class="label required">Email:</label></td>
+<td id="element-login_email" class="text">
+<input type="text" name="login_email" id="login_email" value="" class="textInput"></td></tr>
+<tr class="input-row"><td id="login_password-label" class="label"><label for="login_password" class="required">Password:</label></td>
+<td id="element-login_password" class="password">
+<input type="password" name="login_password" id="login_password" value="" class="passwordInput"></td></tr>
+<tr class="input-row"><td id="remember_me-label" class="label"><label for="remember_me" class="optional">Remember me:</label></td>
+<td id="element-remember_me" class="checkbox">
+<input type="hidden" name="remember_me" value="0"><input type="checkbox" name="remember_me" id="remember_me" value="1"></td></tr></table></td></tr>
+<tr><td colspan="2" id="element-hash" class="hash">
+<input type="hidden" name="hash" value="6a5abb18fa7c142c0e152fac1cfe00a9" id="hash"></td></tr>
+<tr class=""><td colspan="2"><a class="lost_password" href="/account/lost-password">Lost your password?</a>
+<input type="submit" name="login" id="login_submit" value="Login" class="submit button1 important">
+
+<input type="submit" name="create" id="create_submit" value="Create" class="submit button1 important"></td></tr></table></form>            <a class="garena-migrate" href="/login/migrate">
+                <img src="https://web.poecdn.com/image/logo/logo-garena-icon.png" style="float: left;" alt="Migrate Garena Account"/>
+                <p>Looking to migrate your Garena Account?<br>Click here for more information.</p>
+            </a>
+        
+                    <div id="steam_login">
+                <p>Have a Steam account? Sign in below.</p>
+
+                <form method="post" action="/login/steam">
+                    <input type="image" src="https://web.poecdn.com/image/steam/sits_small.png"
+                           alt="Sign in through STEAM"/>
+                </form>
+            </div>
+            </div>
+
+    </div>
+    
+</div>                                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="backdrop"></div>
+            <div class="wrapper">
+                <div class="sitemap">
+                    <div class="column"><h3><a href="http://pathofexile.com/">Home</a></h3><ul><li><a href="http://pathofexile.com/news">News</a></li><li><a href="https://pathofexile.com/account/create">Create Account</a></li><li><a href="https://pathofexile.com/login">Log In</a></li><li><a href="http://pathofexile.com/forum/view-forum/patch-notes">Patch Notes</a></li></ul></div>                    <div class="column"><h3><a href="https://pathofexile.com/game">Game</a></h3><ul><li><a href="http://pathofexile.com/video">Videos</a></li><li><a href="http://pathofexile.com/gallery">Gallery</a></li><li><a href="#"></a></li><li><a href="https://pathofexile.com/game">Overview</a></li><li><a href="http://pathofexile.com/passive-skill-tree">Passive Tree</a></li><li><a href="http://pathofexile.com/ascendancy/classes">Ascendancy Classes</a></li><li><a href="http://pathofexile.com/item-data">Items</a></li><li><a href="#"></a></li><li><a href="http://pathofexile.gamepedia.com/">Community Wiki</a></li></ul></div>                    <div class="column"><h3><a href="http://pathofexile.com/forum">Forum</a></h3><ul><li><a href="http://pathofexile.com/forum">Index</a></li><li><a href="http://pathofexile.com/forum/view-thread/1457463">Code of Conduct</a></li><li><a href="http://pathofexile.com/search">Search</a></li></ul></div>                    <div class="column centerColumn"></div>
+                    <div class="column"><h3><a href="http://pathofexile.com/events">Events</a></h3><ul><li><a href="http://pathofexile.com/events">Event Calendar</a></li><li><a href="http://pathofexile.com/seasons">Race Season</a></li></ul></div>                    <div class="column"><h3><a href="http://pathofexile.com/forum/view-thread/1841349">Ladders</a></h3><ul><li><a href="http://pathofexile.com/forum/view-thread/1841349">Legacy</a></li><li><a href="http://pathofexile.com/forum/view-thread/1841345">Hardcore Legacy</a></li><li><a href="http://pathofexile.com/forum/view-thread/71278">Standard</a></li><li><a href="http://pathofexile.com/forum/view-thread/71276">Hardcore</a></li><li><a href="http://pathofexile.com/forum/view-thread/1841364">SSF Legacy</a></li><li><a href="http://pathofexile.com/forum/view-thread/1841361">SSF Hardcore Legacy</a></li><li><a href="http://pathofexile.com/forum/view-thread/1841357">SSF Standard</a></li><li><a href="http://pathofexile.com/forum/view-thread/1841353">SSF Hardcore</a></li><li><a href="#"></a></li><li><a href="http://pathofexile.com/seasons/ladder">Race Season Points</a></li><li><a href="http://pathofexile.com/signature-races/ladder">Signature Races</a></li><li><a href="http://pathofexile.com/labyrinth">Labyrinth Ladders</a></li></ul></div>                    <div class="column"><h3><a href="https://pathofexile.com/shop">Shop</a></h3><ul><li><a href="https://pathofexile.com/purchase">Buy Packs</a></li><li><a href="https://pathofexile.com/shop">Microtransactions</a></li><li><a href="https://pathofexile.com/shop/category/daily-deals">Specials</a></li></ul></div>                </div>
+                                <div class="bottom">
+                    <span class="copyright">&#169; 2010 - 2017 <a href="http://www.grindinggear.com">Grinding Gear Games</a></span>
+                    <span class="legal">
+                        <a href="/legal/terms-of-use-and-privacy-policy">Terms of Use and Privacy Policy</a> - <a href="/support">Contact Support</a>
+                    </span>
+                    - <span><a href="/developer/docs/api">Developer API</a></span>
+                    <br>
+                    <a class="logo" href="http://www.grindinggear.com"><img src="https://web.poecdn.com/image/logo/ggg-dark.png" alt="Grinding Gear Games" /></a>
+                </div>
+                                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+        <div id="poe-popup-container"></div>
+    <div id="fb-root"></div>
+        <script type="text/javascript" src="https://web.poecdn.com/js/lib/require-2.3.2.js?v=fb734febccaaa258d2fe03b3dca5e0a6"></script>
+<script type="text/javascript">
+    //<!--
+                document.body.className = document.body.className.replace( /(?:^|\s)noJS(?!\S)/ , '');
+            window.momentLocale = 'en_US';
+            window.momentTimezone = 'UTC';
+            window.PoELocale = 'en_US';
+
+            BASEURL = '';
+
+            require.config({
+                baseUrl: "https://web.poecdn.com/js",
+                paths : {"main":"main.d95bece6eb59fa99f8294dacaed39d6cc22575ee","plugins":"plugins.37f35ba1022384922a65f22458223796407fea30","skilltree":"skilltree.02e8a25b056370ed42d70deb7a261da13e50680b"},
+                shim: {"main":{"deps":["config","plugins"]},"plugins":{"deps":["config"]}}
+            });
+            require(["main"], function(){require(["PoE/Form"]);});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    
+    require(["main"], function() {
+        require(["default/login"]);
+    });
+    //-->
+</script>
+<!--[if lt IE 7]><script type="text/javascript" src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script><![endif]-->
+<script type="text/javascript">
+    //<!--
+    window.onerror = function(e, url, l) {};    //-->
+</script>    </body>
+</html>

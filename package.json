@@ -1,0 +1,11 @@
+{
+  "name": "poe-stash-tabulator",
+  "version": "0.0.1",
+  "description": "Display Path of Exile stash information with valuations, personal historic data, etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Madigan",
+  "license": "ISC"
+}

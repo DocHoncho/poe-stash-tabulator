@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{% block before_head %}
+{% endblock %}
+
+{% block _head %}
+<title>{{APP.app_title}}</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="app.css" >
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+{% endblock %}
+
+{% block after_head %}
+{% endblock %}
+</head>
+<body>
+
+{% block before_body %}
+{% endblock %}
+
+{% block root %}
+{% endblock %}
+
+{% block _body %}
+<script type="text/javascript">
+
+var app = new App({
+currentLeague:  "legacy",
+});
+app.init('#root');
+app.run();
+
+</script>
+{% endblock %}
+
+{% block after_body %}
+{% endblock %}
+</body>
+</html>

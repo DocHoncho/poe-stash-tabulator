@@ -1,0 +1,68 @@
+[
+  {
+    "id": "Standard",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/71278",
+    "startAt": "2013-01-23T21:00:00Z",
+    "endAt": null
+  },
+  {
+    "id": "Hardcore",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/71276",
+    "startAt": "2013-01-23T21:00:00Z",
+    "endAt": null
+  },
+  {
+    "id": "SSF Standard",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/1841357",
+    "startAt": "2013-01-23T21:00:00Z",
+    "endAt": null
+  },
+  {
+    "id": "SSF Hardcore",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/1841353",
+    "startAt": "2013-01-23T21:00:00Z",
+    "endAt": null
+  },
+  {
+    "id": "Legacy",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/1841349",
+    "startAt": "2017-03-03T20:00:00Z",
+    "endAt": "2017-07-10T22:00:00Z"
+  },
+  {
+    "id": "Hardcore Legacy",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/1841345",
+    "startAt": "2017-03-03T20:00:00Z",
+    "endAt": "2017-07-10T22:00:00Z"
+  },
+  {
+    "id": "SSF Legacy",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/1841364",
+    "startAt": "2017-03-03T20:00:00Z",
+    "endAt": "2017-07-10T22:00:00Z"
+  },
+  {
+    "id": "SSF HC Legacy",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/1841361",
+    "startAt": "2017-03-03T20:00:00Z",
+    "endAt": "2017-07-10T22:00:00Z"
+  },
+  {
+    "id": "Descent Champions (JRE030)",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/1905182",
+    "startAt": "2017-06-07T06:00:00Z",
+    "endAt": "2017-06-07T06:30:00Z"
+  },
+  {
+    "id": "Descent (JRE031)",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/1905183",
+    "startAt": "2017-06-07T09:00:00Z",
+    "endAt": "2017-06-07T09:40:00Z"
+  },
+  {
+    "id": "One Hour Solo (JRE032)",
+    "url": "http:\/\/pathofexile.com\/forum\/view-thread\/1905184",
+    "startAt": "2017-06-07T12:00:00Z",
+    "endAt": "2017-06-07T13:00:00Z"
+  }
+]
